@@ -1,0 +1,9 @@
+**.svg
+**.pdf
+**.png
+**.gif
+**.xcf
+images/**
+
+# the data file is too big to push to GitHub
+usa_00002.csv
